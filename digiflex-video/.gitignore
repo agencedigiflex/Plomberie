@@ -1,0 +1,9 @@
+node_modules/
+out/stills/
+out/video.mp4
+audio/mix.wav
+audio/music.wav
+audio/vo_track.wav
+audio/sfx/
+audio/cues.json
+__pycache__/

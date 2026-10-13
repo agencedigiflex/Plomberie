@@ -1,0 +1,15 @@
+{
+  "name": "digiflex-motion",
+  "private": true,
+  "description": "Motion design de présentation de l'agence Digiflex (canard rose).",
+  "type": "module",
+  "scripts": {
+    "render": "node tools/render.mjs"
+  },
+  "devDependencies": {
+    "@fontsource/montserrat": "^5.2.5",
+    "@fontsource/poppins": "^5.2.5",
+    "gsap": "^3.13.0",
+    "playwright": "1.56.1"
+  }
+}
